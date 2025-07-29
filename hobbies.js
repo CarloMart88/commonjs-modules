@@ -2,6 +2,6 @@
 // Crea una funzione che accetta tre parametri: hobbyOne, hobbyTwo, hobbyThree. La funzione dovrebbe restituire un array di stringhe contenenti gli hobby.
 // Esporta la funzione dal file.
 
-const hobbies = (hobbyOne,hobbyTwo,hobbyThree) => ([hobbyOne,hobbyTwo ,hobbyThree,])
+const hobbies = (hobbyOne,hobbyTwo,hobbyThree) => [hobbyOne,hobbyTwo ,hobbyThree]
 
 module.exports = hobbies
